@@ -1,2 +1,2 @@
 # restaurant-page2
-Fullstack SPA using Vue.js, nuxt.js, tailwindcss and express.js
+ SPA using Vue.js and Tailwindcss
